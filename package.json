@@ -1,0 +1,26 @@
+{
+  "name": "weatherly",
+  "version": "1.0.0",
+  "description": "It is a weather app made using node.js, express, ejs, view-engine, body-parser, request and OpenWeather API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Weather",
+    "OpenWeather",
+    "API",
+    "APIKey",
+    "Node",
+    "JS"
+  ],
+  "author": "Khizer Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "request": "^2.88.2",
+    "view-engine": "^1.1.1"
+  }
+}
